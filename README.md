@@ -6,6 +6,9 @@ For more details regarding methods, result and models see the paper ["Sentiment 
 
 This site was built using [GitHub Pages](https://pages.github.com/).
 
+
+This repository is cloned from [the public repository](https://github.com/rooosenberg/Sentiment-analysis-on-Twitter-data-towards-climate-action). The transfer of this repository is conducted in accordance with the permission granted by the original author. For inquiries regarding this repository, please contact [author](https://github.com/rooosenberg).
+
 ## Data
 - Training: The training of the Regression model was done with the Kaggle dataset [Sentiment140](https://www.kaggle.com/datasets/kazanova/sentiment140).
 - Collected data: It was collected with the python package, Tweepy. For the collecte draw data see [Google drive file](https://drive.google.com/drive/folders/1CsGv0CyDpat7TNP4wRuXDuqUBcpkABUj?usp=drive_link). 
